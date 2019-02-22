@@ -1,0 +1,19 @@
+directorios
+/
+/bin archivos binarios o de ejecucion preferentemente del so
+/boot arranque de sistema aqui se mete el grub
+/dev aqui se lamacenan los dispositivos exepto usb
+/etc archivos de configuracion
+/home aqui se almacenan los usuarios exepto root
+/root aqui se almacena el usuario root
+/lib bibliotecas del sistema operativo para programar
+/media dispositivos como usb
+/opt aqui se almacena el software de terceros
+/lost+found inforacio recuperada como de verciones pasadas
+/proc informacion dinamica de ram y de procesos uso de cp uso de memo
+/srv archivos a servidores web
+/sys archivos del sistemas virtuales
+/tmp archivos temporales de los programas
+/usr archivos de programas que estan instalados del sistema operativo
+/var archivos de informacon del sistema como logs bases de datos
+/sbin contiene binarios pero que se corren por usuarios root 
